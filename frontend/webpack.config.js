@@ -1,7 +1,7 @@
 module.exports = {
   devServer: {
     clientLogLevel: 'silent',
-    contentBase: 'Pizza-Shop/frontend/public',
+    contentBase: './public',
     historyApiFallback: true,
   },
 };
